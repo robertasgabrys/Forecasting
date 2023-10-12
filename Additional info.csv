@@ -1,0 +1,91 @@
+Table (1): Stations and cities,,,Table (2): Fees to unlock a bike and rent per minute in each city,,
+,,,,,
+Station_name,City,,City,Fee_to_unlock_a_bike,Rent_per_minute
+Ardmore / 6th,Lakewood,,Agoura Hills,2.88,0.85
+Ballona / 6th,Santa Monica,,Alhambra,2.59,0.25
+Ballona / Ardmore,Alhambra,,Arcadia,2.78,0.72
+Beatrice / 6th,Norwalk,,Artesia,2.33,0.2
+Beatrice / Ardmore,Norwalk,,Avalon,2.91,0.9
+Beatrice / Ballona,Carson,,Azusa,2.34,0.36
+Berendo / Ardmore,Santa Monica,,Baldwin Park,2.71,0.71
+Berendo / Ballona,Baldwin Park,,Bell,2.32,0.65
+Berendo / Beatrice,Inglewood,,Bell Gardens,2.67,0.42
+Centinela / Beatrice,Lakewood,,Bellflower,2.42,0.13
+Centinela / Berendo,Santa Monica,,Beverly Hills,2.36,0.79
+Charnock / Beatrice,Santa Monica,,Bradbury,2.36,0.48
+Charnock / Berendo,South Gate,,Burbank,2.52,0.38
+Charnock / Centinela,Alhambra,,Calabasas,2.04,0.25
+Culver / Berendo,Norwalk,,Carson,2.13,0.47
+Culver / Centinela,Bellflower,,Cerritos,2.57,0.59
+Culver / Charnock,Santa Monica,,Claremont,2.65,0.6
+Durango / Centinela,Lakewood,,Commerce,2.6,0.65
+Durango / Charnock,South Gate,,Compton,2.51,0.88
+Exposition / Charnock,Carson,,Covina,2.3,0.31
+Exposition / Culver,Inglewood,,Cudahy,2.87,0.32
+Exposition / Durango,Hawthorne,,Culver City,2.09,0.23
+Figueroa / Culver,South Gate,,Diamond Bar,2.74,0.91
+Figueroa / Durango,Santa Monica,,Downey,2.36,0.48
+Fountain / Durango,Bellflower,,Duarte,2.14,0.47
+Fountain / Exposition,Baldwin Park,,El Monte,2.35,0.64
+Fountain / Figueroa,Norwalk,,El Segundo,2.88,0.73
+Hollywood / Figueroa,Norwalk,,Gardena,2.04,0.89
+Hollywood / Fountain,South Gate,,Glendale,2.26,0.53
+Hyperion / Fountain,Lakewood,,Glendora,2.17,0.29
+Hyperion / Hollywood,Norwalk,,Hawaiian Gardens,2.39,0.42
+Inglewood / Hollywood,Burbank,,Hawthorne,2.31,0.81
+Inglewood / Hyperion,Carson,,Hermosa Beach,2.92,1.07
+McConnell / Inglewood,Hawthorne,,Hidden Hills,2.3,1.01
+McConnell / McConnell,Baldwin Park,,Huntington Park,2.12,0.8
+Olympic / McConnell,Norwalk,,Industry,2.58,0.84
+Overland / McConnell,Compton,,Inglewood,2.28,0.29
+Overland / Olympic,South Gate,,Irwindale,2.58,0.64
+Playa / Olympic,Lakewood,,La Cañada Flintridge,2.78,1.05
+Playa / Overland,South Gate,,La Habra Heights,2.83,0.89
+Plaza / Overland,Santa Monica,,La Mirada,2.37,0.29
+Plaza / Playa,Whittier,,La Puente,2.79,1.01
+Rodney / Playa,Burbank,,La Verne,2.24,0.74
+Rodney / Plaza,South Gate,,Lakewood,2.2,0.61
+Rose / Plaza,Burbank,,Lancaster,2.11,1.09
+Rose / Rodney,Lakewood,,Lawndale,2.64,0.78
+Rowena / Rodney,Norwalk,,Lomita,2.2,0.72
+Rowena / Rose,Carson,,Long Beach,2.24,0.96
+Runway / Rose,Compton,,Los Angeles,2.12,0.25
+Runway / Rowena,Lakewood,,Lynwood,2.66,0.69
+Sepulveda / Rowena,Hawthorne,,Malibu,2.45,0.83
+Sepulveda / Runway,Compton,,Manhattan Beach,2.54,0.19
+Venice / Runway,Lakewood,,Maywood,2.01,0.96
+Venice / Sepulveda,Inglewood,,Monrovia,2.02,0.4
+Vermont / Sepulveda,Bellflower,,Montebello,2.03,1.04
+Vermont / Venice,Inglewood,,Monterey Park,2.32,1.05
+Virgil / Vermont,Carson,,Norwalk,2.43,0.89
+Vista / Vermont,Inglewood,,Palmdale,2.3,1.02
+Vista / Virgil,Lakewood,,Palos Verdes Estates,2.66,0.65
+Westlawn / Virgil,Lakewood,,Paramount,2.56,0.68
+Westlawn / Vista,Baldwin Park,,Pasadena,2.63,0.9
+Wilcox / Vista,Lakewood,,Pico Rivera,2.56,0.77
+,,,Pomona,2.04,0.24
+,,,Rancho Palos Verdes,2.05,0.82
+,,,Redondo Beach,2.64,0.17
+,,,Rolling Hills,2.17,0.64
+,,,Rolling Hills Estates,2.65,0.59
+,,,Rosemead,2.02,0.2
+,,,San Dimas,2.22,0.45
+,,,San Fernando,2.75,0.6
+,,,San Gabriel,2.76,1.07
+,,,San Marino,2.2,0.49
+,,,Santa Clarita,2.95,0.3
+,,,Santa Fe Springs,2.82,0.42
+,,,Santa Monica,2.58,1.1
+,,,Sierra Madre,2.82,1.09
+,,,Signal Hill,2.37,0.59
+,,,South El Monte,2.58,0.63
+,,,South Gate,2.56,0.56
+,,,South Pasadena,2.54,0.87
+,,,Temple City,2.66,0.57
+,,,Torrance,2.8,0.78
+,,,Vernon,2.59,0.6
+,,,Walnut,2.45,0.6
+,,,West Covina,2.42,0.39
+,,,West Hollywood,2.94,1.06
+,,,Westlake Village,2.83,0.48
+,,,Whittier,2.74,1.07
