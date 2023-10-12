@@ -1,0 +1,91 @@
+"Table (1): Stations, cities, and total labor cost in each station for each month",,,,,,,,,,,,,,,,Table (2): Fees to unlock a bike and rent per minute in each city,,
+,,,,,,,,,,,,,,,,,,
+Station_name,City,January,February,March,April,May,June,July,August,September,October,November,December,,,City,Fee_to_unlock_a_bike,Rent_per_minute
+Ardmore / 6th,Lakewood,2.52,2.99,2.84,2.44,2.06,2.67,2.63,2.48,2.87,2.22,2.96,2.46,,,Agoura Hills,2.88,0.85
+Ballona / 6th,Santa Monica,2.39,2.08,2.1,2.92,2.01,2.1,2.69,2.56,2.14,2.98,2.46,2.92,,,Alhambra,2.59,0.25
+Ballona / Ardmore,Alhambra,2.62,2.98,2.41,2.05,2.86,2.3,2.14,2.6,2.8,2.63,2.14,2.14,,,Arcadia,2.78,0.72
+Beatrice / 6th,Norwalk,2.58,2.59,2.55,2.56,2.78,2.33,2.65,2.99,2.14,2.2,2.22,2.52,,,Artesia,2.33,0.2
+Beatrice / Ardmore,Norwalk,2.22,2.48,2.28,2.03,2.91,2.47,2.26,2.74,2.25,2.52,2.04,2.07,,,Avalon,2.91,0.9
+Beatrice / Ballona,Carson,2.57,2.37,2.54,2.05,2.02,2.27,2.06,2.65,2.07,2.48,2.01,2.74,,,Azusa,2.34,0.36
+Berendo / Ardmore,Santa Monica,2.11,2.56,2.12,2.39,2.67,2.61,2.41,2.35,2.73,2.79,2.88,2.81,,,Baldwin Park,2.71,0.71
+Berendo / Ballona,Baldwin Park,2.28,2.84,2.88,2.1,2.5,2.9,2.05,2.13,3,2.8,2.45,2.79,,,Bell,2.32,0.65
+Berendo / Beatrice,Inglewood,2.56,2.7,3,2.95,2.42,2.61,2.6,2.89,2.15,2.27,2.41,2.49,,,Bell Gardens,2.67,0.42
+Centinela / Beatrice,Lakewood,2.57,2.27,2.13,2.25,2.9,2.57,2.71,2.8,2.49,2.9,2.84,2.91,,,Bellflower,2.42,0.13
+Centinela / Berendo,Santa Monica,2.7,2.36,2.47,2.16,2.27,2.73,2.46,2.64,2.85,2.63,2.86,2.58,,,Beverly Hills,2.36,0.79
+Charnock / Beatrice,Santa Monica,2.06,2.25,2.58,2.6,2.81,2.23,2.97,2.9,2.15,2.95,2.51,2.69,,,Bradbury,2.36,0.48
+Charnock / Berendo,South Gate,2.63,2.36,2.93,2.86,2.24,2.77,2.78,2.3,2.39,2.01,2.78,2.73,,,Burbank,2.52,0.38
+Charnock / Centinela,Alhambra,2.19,2.02,2.62,2.86,2.3,2.03,2.38,2.8,2.41,2.41,2.41,2.4,,,Calabasas,2.04,0.25
+Culver / Berendo,Norwalk,2.47,2.49,2.27,2.37,2.78,2.49,2.58,2.6,2.73,2.33,2.89,2.55,,,Carson,2.13,0.47
+Culver / Centinela,Bellflower,2.09,2.38,2.4,2.13,2.73,2.21,2.85,2.82,2.36,2.07,2.56,2.65,,,Cerritos,2.57,0.59
+Culver / Charnock,Santa Monica,2.61,2.65,2.36,2.89,2.49,2.49,2.5,2.98,2.98,2.58,2.8,2.89,,,Claremont,2.65,0.6
+Durango / Centinela,Lakewood,2.4,2.54,2.93,2.6,2.8,2,2.97,2.43,2.03,2.58,2.24,2.6,,,Commerce,2.6,0.65
+Durango / Charnock,South Gate,2.03,2.31,2.5,2.36,2.66,2.9,2.46,2.89,2.41,2.35,2.62,2.94,,,Compton,2.51,0.88
+Exposition / Charnock,Carson,2.55,2.22,2.53,2.78,2.1,2.55,2.38,2.62,2.06,2.23,2.86,2.25,,,Covina,2.3,0.31
+Exposition / Culver,Inglewood,2.29,2.12,2.62,2.41,2.51,2.95,2.71,2.89,2.52,2.7,2.06,2.78,,,Cudahy,2.87,0.32
+Exposition / Durango,Hawthorne,2.22,2.03,2.65,2.5,2.84,2.48,2.57,2.66,2.26,2.78,2.79,2.27,,,Culver City,2.09,0.23
+Figueroa / Culver,South Gate,2.11,2.27,2.48,2.79,2.35,2.83,2.41,2.97,2.96,2.7,2.37,2.86,,,Diamond Bar,2.74,0.91
+Figueroa / Durango,Santa Monica,2.11,2.68,2.33,2.49,2.58,2.3,2.57,2.7,2.81,2.76,2.75,2.53,,,Downey,2.36,0.48
+Fountain / Durango,Bellflower,2.92,2.94,2.86,2.21,2.88,2.02,2.73,2.18,2.84,2.98,2.55,2.12,,,Duarte,2.14,0.47
+Fountain / Exposition,Baldwin Park,2.28,2.68,2.21,2.61,2.66,2.99,2.84,2.01,2.76,2.25,2.15,2.01,,,El Monte,2.35,0.64
+Fountain / Figueroa,Norwalk,2.82,2.48,2.47,2.29,2.45,2.01,2.11,2.65,2.25,2.62,2.02,2.41,,,El Segundo,2.88,0.73
+Hollywood / Figueroa,Norwalk,2.5,2.99,2.05,2.09,2.14,2.98,2.2,2.75,2.58,2.57,2.65,2.7,,,Gardena,2.04,0.89
+Hollywood / Fountain,South Gate,2.46,2.68,2.84,2.26,2.59,2.44,2.04,2.7,2.31,2.4,2.63,2.59,,,Glendale,2.26,0.53
+Hyperion / Fountain,Lakewood,2.44,2.32,2.01,2.2,2.47,2.92,2.7,2.33,2.69,2.22,2.17,2.92,,,Glendora,2.17,0.29
+Hyperion / Hollywood,Norwalk,2.77,2.46,2.66,2.78,2.98,2.23,2.71,2.83,2.03,2.81,2.27,2.94,,,Hawaiian Gardens,2.39,0.42
+Inglewood / Hollywood,Burbank,2.3,2.77,2.95,2.26,2.79,2.89,2.81,2.19,2.44,2.63,2.05,2.78,,,Hawthorne,2.31,0.81
+Inglewood / Hyperion,Carson,2.31,2.15,2.81,2.84,2.84,2.54,2.97,2.49,2.95,2.27,2.84,2.44,,,Hermosa Beach,2.92,1.07
+McConnell / Inglewood,Hawthorne,2.98,2.4,2.4,2.78,2.22,2.76,2.71,2.66,2.41,2.38,2.22,3,,,Hidden Hills,2.3,1.01
+McConnell / McConnell,Baldwin Park,2.01,2.7,2.17,2.69,2.77,2.65,2.28,2.84,2.57,2.05,2.44,2.61,,,Huntington Park,2.12,0.8
+Olympic / McConnell,Norwalk,2.02,2.58,2.4,2.27,2.12,2.29,2.73,2.28,2.73,2.95,2.7,2.2,,,Industry,2.58,0.84
+Overland / McConnell,Compton,2.46,2.65,2.18,2.11,2.41,2.37,3,2.58,2.64,2.66,2.01,2.14,,,Inglewood,2.28,0.29
+Overland / Olympic,South Gate,2.15,2.33,2.97,2.92,2.45,2.34,2.98,2.58,2.85,2.65,2.8,2.11,,,Irwindale,2.58,0.64
+Playa / Olympic,Lakewood,2.78,2.04,2.83,2.88,2.86,2.36,2.46,2.49,2.43,2.88,2.76,2.12,,,La Cañada Flintridge,2.78,1.05
+Playa / Overland,South Gate,2.48,2.29,2.36,2.83,2.12,2.42,2.2,2.62,2.47,2.75,2.15,2.9,,,La Habra Heights,2.83,0.89
+Plaza / Overland,Santa Monica,2.21,2.96,2.92,2.02,2.12,2.3,2.42,2.6,2.49,2.85,2.09,2.28,,,La Mirada,2.37,0.29
+Plaza / Playa,Whittier,2.21,2.98,2.19,2.9,2.79,2.88,2.46,2.06,2.37,2.4,2.19,2.03,,,La Puente,2.79,1.01
+Rodney / Playa,Burbank,2.04,2.95,2.07,2.36,2.3,2.28,2.83,2.53,2.43,2.3,2.03,2.41,,,La Verne,2.24,0.74
+Rodney / Plaza,South Gate,2.64,2.34,2.29,2.16,2.79,2.54,2.43,2.74,2.88,2.99,2.25,2.74,,,Lakewood,2.2,0.61
+Rose / Plaza,Burbank,2.85,2.73,2.61,2.54,2.74,2.65,2.33,2.69,2.25,2.67,2.39,2.44,,,Lancaster,2.11,1.09
+Rose / Rodney,Lakewood,2.5,2,2.91,2.46,2.35,2.22,2.97,2.66,2.07,2.24,2.77,2.59,,,Lawndale,2.64,0.78
+Rowena / Rodney,Norwalk,2.49,2.48,2.56,2.13,2.93,2.58,2.88,2.32,2.72,2.11,2.67,2.07,,,Lomita,2.2,0.72
+Rowena / Rose,Carson,2.82,2.43,2.59,2.85,2.22,2.28,2.35,2.1,2.42,2.94,2.27,2.27,,,Long Beach,2.24,0.96
+Runway / Rose,Compton,2.34,2.46,2.33,2.99,2.64,2.26,2.16,2.2,2.22,2.2,2.2,2.96,,,Los Angeles,2.12,0.25
+Runway / Rowena,Lakewood,2.23,2.7,2.99,2.03,2.16,2.35,2.49,2.97,2.27,2.32,2.21,2.62,,,Lynwood,2.66,0.69
+Sepulveda / Rowena,Hawthorne,2.7,2.12,2.75,2.94,2.47,2.81,2.31,2.31,2.1,2.49,2.5,2.65,,,Malibu,2.45,0.83
+Sepulveda / Runway,Compton,2.18,2.37,2.75,2.33,2.45,2.75,2.44,2.49,2.76,2.43,2.24,2.91,,,Manhattan Beach,2.54,0.19
+Venice / Runway,Lakewood,2.79,2.09,2.92,2.9,2.04,2.98,2.11,2.24,2.77,2.74,2.71,2.7,,,Maywood,2.01,0.96
+Venice / Sepulveda,Inglewood,2.68,2.22,2.51,2.44,2.34,2.5,2.31,2.2,2.67,2.78,2.25,2.73,,,Monrovia,2.02,0.4
+Vermont / Sepulveda,Bellflower,2.05,2.97,2.69,2.2,2.53,2.89,2.09,2.84,2.3,2.09,2.6,3,,,Montebello,2.03,1.04
+Vermont / Venice,Inglewood,2.6,2.62,2.54,2.67,2.36,2.32,2.12,2.96,2.48,2.91,2.21,2.3,,,Monterey Park,2.32,1.05
+Virgil / Vermont,Carson,2.63,2.3,2.4,2.01,2.71,2.76,2.6,2.48,2.79,2.25,2.86,2.15,,,Norwalk,2.43,0.89
+Vista / Vermont,Inglewood,2.15,2.46,2.61,2.11,2.02,2.27,2.78,2.4,2.13,2.89,2.2,2.64,,,Palmdale,2.3,1.02
+Vista / Virgil,Lakewood,2.54,2.74,2.37,2.89,2.07,2.25,2.81,2.81,2.55,2.72,2.72,2.43,,,Palos Verdes Estates,2.66,0.65
+Westlawn / Virgil,Lakewood,2.7,2,2.01,2.34,2.19,2.09,2.66,2.62,2.25,2.87,2.66,2.04,,,Paramount,2.56,0.68
+Westlawn / Vista,Baldwin Park,2.6,2.95,2.87,2.8,2.44,2.2,2.96,2.28,2.79,2.57,2.05,2.64,,,Pasadena,2.63,0.9
+Wilcox / Vista,Lakewood,2.24,2.37,2.09,2.89,2.01,2.37,2.29,2.78,2.12,2.86,2.61,2.76,,,Pico Rivera,2.56,0.77
+,,,,,,,,,,,,,,,,Pomona,2.04,0.24
+,,,,,,,,,,,,,,,,Rancho Palos Verdes,2.05,0.82
+,,,,,,,,,,,,,,,,Redondo Beach,2.64,0.17
+,,,,,,,,,,,,,,,,Rolling Hills,2.17,0.64
+,,,,,,,,,,,,,,,,Rolling Hills Estates,2.65,0.59
+,,,,,,,,,,,,,,,,Rosemead,2.02,0.2
+,,,,,,,,,,,,,,,,San Dimas,2.22,0.45
+,,,,,,,,,,,,,,,,San Fernando,2.75,0.6
+,,,,,,,,,,,,,,,,San Gabriel,2.76,1.07
+,,,,,,,,,,,,,,,,San Marino,2.2,0.49
+,,,,,,,,,,,,,,,,Santa Clarita,2.95,0.3
+,,,,,,,,,,,,,,,,Santa Fe Springs,2.82,0.42
+,,,,,,,,,,,,,,,,Santa Monica,2.58,1.1
+,,,,,,,,,,,,,,,,Sierra Madre,2.82,1.09
+,,,,,,,,,,,,,,,,Signal Hill,2.37,0.59
+,,,,,,,,,,,,,,,,South El Monte,2.58,0.63
+,,,,,,,,,,,,,,,,South Gate,2.56,0.56
+,,,,,,,,,,,,,,,,South Pasadena,2.54,0.87
+,,,,,,,,,,,,,,,,Temple City,2.66,0.57
+,,,,,,,,,,,,,,,,Torrance,2.8,0.78
+,,,,,,,,,,,,,,,,Vernon,2.59,0.6
+,,,,,,,,,,,,,,,,Walnut,2.45,0.6
+,,,,,,,,,,,,,,,,West Covina,2.42,0.39
+,,,,,,,,,,,,,,,,West Hollywood,2.94,1.06
+,,,,,,,,,,,,,,,,Westlake Village,2.83,0.48
+,,,,,,,,,,,,,,,,Whittier,2.74,1.07
